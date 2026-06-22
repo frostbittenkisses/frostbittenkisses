@@ -10,5 +10,5 @@
 
 
 <!-- 3. INTERACTIVE NAVIGATION LINKS -->
-　　 &nbsp;&nbsp;&nbsp;&nbsp; [“It　feels　so　cold..](https://pronouns.cc/@theheartofgold) &nbsp;&nbsp;&nbsp;&nbsp; [I　can’t　go　on…”](https://platonicfrostkisses.atabook.org/)　　　⠀
+　　 &nbsp;&nbsp;&nbsp;&nbsp; [“It　feels　so　cold..](https://pronouns.cc/@theheartofgold) << mi prns &nbsp;&nbsp;&nbsp;&nbsp; mi ata >> [I　can’t　go　on…”](https://platonicfrostkisses.atabook.org/)　　　⠀
 </div>
