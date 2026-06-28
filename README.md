@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- 1. HEADER BANNER / IMAGE -->
-<img src="https://media.discordapp.net/attachments/1035431362443890722/1518668989482405928/Untitled967_20260622202755.png?ex=6a3ac236&is=6a3970b6&hm=09a8e62df935ef3d357fb2ec649dff4994b15087f12a5ef6466751a711d3c797&=&format=webp&quality=lossless" width="100%" alt="Banner">
+<img src="https://media.discordapp.net/attachments/1035431362443890722/1518668989482405928/Untitled967_20260622202755.png?ex=6a420276&is=6a40b0f6&hm=95d0ddae02172124aaeffa63c1caf1533ba86192f2d0746e6e9c79eb9c379fec&=&format=webp&quality=lossless" width="80%" alt="Banner">
+
 <!-- 2. QUOTE TEXT -->
 
 
