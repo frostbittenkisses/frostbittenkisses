@@ -1,15 +1,19 @@
 <div align="center">
 
 <!-- 1. HEADER BANNER / IMAGE -->
-<img src="https://media.discordapp.net/attachments/1035431362443890722/1518668989482405928/Untitled967_20260622202755.png?ex=6a49eb76&is=6a4899f6&hm=3aa59c69b8738bbae047f9d8964d829bb38a93dbc28b0b20a8ee39d150ea3b1d&=&format=webp&quality=lossless" width="80%" alt="Banner">
+<div align="center"><img src="https://64.media.tumblr.com/2368586b40218f7f689efa5adf606d80/df6b02b61ad85108-c5/s540x810/9f9ce7ec2cde09e23b415c41feb4620deeb4469f.pnj" width="60%" alt="Banner">
+<div align="center"><img src="https://media.discordapp.net/attachments/1035431362443890722/1523015636379500695/17c868f0-b0b1-44e3-b7ba-d1ad744ca5fa_removalai_preview_3.png?ex=6a4a9257&is=6a4940d7&hm=fd712dccf738f5b76602162443822d50fadda343a92c9e254fcad284b692c63b&=&format=webp&quality=lossless" width="60%" alt="Banner">
 
 <!-- 2. QUOTE TEXT -->
 
-
-<h3 style="color: #e3642d; font-family: 'Courier New', Courier, monospace;">"　..I　can’t　turn　back　now.　(╥﹏╥)　"</h3>
-<p style="color: #e3642d; font-family: 'Courier New', Courier, monospace; font-style: italic;">I can’t run away,　I can’t go back down,　I can never go back.</p>
-
+<h3 style="color: #e3642d; font-family: 'Courier New', Courier, monospace;">　　𝒢𓍢　　i'm　counting　on　you　partner—　blast　burn ! 　𓈒　</h3>
+<p style="color: #e3642d; font-family: 'Courier New', Courier, monospace; font-style: italic;"> 𝄈　　　　silver— ! ! 　silver,　where　are　you ? !　　　 𓐩</p>
+<p style="color: #e3642d; font-family: 'Courier New', Courier, monospace; font-style: italic;"> ˳ᴗ ᴗ)　　　　c+h always , pkmn fans int !　　ㅤㅤㅤᚐ</p>
 
 <!-- 3. INTERACTIVE NAVIGATION LINKS -->
-　　 &nbsp;&nbsp;&nbsp;&nbsp; [“It　feels　so　cold..](https://pronouns.cc/@theheartofgold) << mi prns &nbsp;&nbsp;&nbsp;&nbsp; mi ata >> [I　can’t　go　on…”](https://platonicfrostkisses.atabook.org/)　　　⠀
+　　 &nbsp;&nbsp;&nbsp;&nbsp; [prns](https://pronouns.cc/@theheartofgold)　♡&nbsp;&nbsp;&nbsp;&nbsp;[ata](https://platonicfrostkisses.atabook.org/)　　　⠀
 </div>
+</div>
+</div>
+<!-- 4. HEADER BANNER / IMAGE -->
+<div align="center"><img src="https://64.media.tumblr.com/4ae20255f62e2c5f725a15dcf0dedbab/7a2a2ebc0f619da5-77/s2048x3072/4eb9fef2acabd2dd705fb30cc413ef5740e5a2be.pnj" width="60%" alt="Banner">
