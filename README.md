@@ -2,7 +2,7 @@
 
 <!-- 1. HEADER BANNER / IMAGE -->
 <div align="center"><img src="https://64.media.tumblr.com/2368586b40218f7f689efa5adf606d80/df6b02b61ad85108-c5/s540x810/9f9ce7ec2cde09e23b415c41feb4620deeb4469f.pnj" width="60%" alt="Banner">
-<div align="center"><img src="https://media.discordapp.net/attachments/1035431362443890722/1523015636379500695/17c868f0-b0b1-44e3-b7ba-d1ad744ca5fa_removalai_preview_3.png?ex=6a605317&is=6a5f0197&hm=d0be58ee36f7c5a12b80e184688db204fcffead004fe6c5961cb9f7e1569cb52&=&format=webp&quality=lossless"60%" alt="Banner">
+<div align="center"><img src="https://media.discordapp.net/attachments/1035431362443890722/1527016980752896121/e585953e921821121b863d13cf32628a.jpg?ex=6a66f8a2&is=6a65a722&hm=c635e89941806adc663974c313316322ee112b598fc1e3b209192a13b07d8590&=&format=webp"60%" alt="Banner">
 
 <!-- 2. QUOTE TEXT -->
 
