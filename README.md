@@ -11,7 +11,7 @@
 <p style="color: #e3642d; font-family: 'Courier New', Courier, monospace; font-style: italic;"> ˳ᴗ ᴗ)　　　　c+h always , pkmn fans int !　　ㅤㅤㅤᚐ</p>
 
 <!-- 3. INTERACTIVE NAVIGATION LINKS -->
-　　 &nbsp;&nbsp;&nbsp;&nbsp; [prns](https://pronouns.cc/@theheartofgold)　♡&nbsp;&nbsp;&nbsp;&nbsp;[ata](https://platonicfrostkisses.atabook.org/)　　　⠀
+　　 &nbsp;&nbsp;&nbsp;&nbsp; [rentry](https://rentry.co/johtodexholders)　♡&nbsp;&nbsp;&nbsp;&nbsp;[ata](https://platonicfrostkisses.atabook.org/)　　　⠀
 </div>
 </div>
 </div>
