@@ -1,19 +1,33 @@
-<div align="center">
 
-<!-- 1. HEADER BANNER / IMAGE -->
-<div align="center"><img src="https://64.media.tumblr.com/2368586b40218f7f689efa5adf606d80/df6b02b61ad85108-c5/s540x810/9f9ce7ec2cde09e23b415c41feb4620deeb4469f.pnj" width="60%" alt="Banner">
-<div align="center"><img src="https://i.pinimg.com/736x/67/82/b6/6782b659780529fff682c6c61f8c5907.jpg" width=40%" alt="Banner">
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://file.garden/ao2Lx8LFNyZKt8tq/Untitled1157_20261103204905.png" width="250">
+    </td>
+    <td width="50%" align="center">
+      <h3>𝝩hׁı๋𝘀 ı๋𝘀 𐐼ִ 𝗷𐐫ᖯִ 𝗳𐐫𝗿ִ 𝗦u𝗉ᧉ𝗿ִᖯִ𐐫𝘆!</h3>
+      <p>r𐐼ִı๋𝗻ᧉ 𐐫𝗎ׁ 𝗷𐐫𝗻 ｡ 𝟳teen</p>
+      <p>hׁᧉ/hׁ𝘆ꭑ͠ ｡𝗳ı๋l + ᧉ𝗻ɡ</p>
+      <p>𝗰+hׁ & w2ı๋</p>
+      <p>ꭑ͠𐐫𝘀𝘁 lı๋𝗸ֹᧉl𝘆 𐐫𝗳𝗳𝘁𐐼ִᖯִ｡ ｡</p>
+      <p>🌠 <a href="https://cobalt.atabook.org/">新ᖯִ𐐫𐐫𝗸ֹ</a></p>
+       <p>🍊 <a href="https://rentry.co/dami-jon">rᧉ𝗻𝘁𝗿ִ𝘆</a></p>
+      <h3></h3>
+    </td>
+  </tr>
+</table>
 
-<!-- 2. QUOTE TEXT -->
 
-<h3 style="color: #e3642d; font-family: 'Courier New', Courier, monospace;">　　𝒢𓍢　　i'm　counting　on　you　partner—　blast　burn ! 　𓈒　</h3>
-<p style="color: #e3642d; font-family: 'Courier New', Courier, monospace; font-style: italic;"> 𝄈　　　　silver— ! ! 　silver,　where　are　you ? !　　　 𓐩</p>
-<p style="color: #e3642d; font-family: 'Courier New', Courier, monospace; font-style: italic;"> ˳ᴗ ᴗ)　　　　c+h always , pkmn fans int !　　ㅤㅤㅤᚐ</p>
+<details align="center">
+  <summary>lı๋𝘁𝘁lᧉ 𝗸ֹr𝘆𝗉𝘁𐐫𝗻ı๋𐐼ִ𝗻𝘀!☆ॱֺ.⠀</summary>
 
-<!-- 3. INTERACTIVE NAVIGATION LINKS -->
-　　 &nbsp;&nbsp;&nbsp;&nbsp; [rentry](https://rentry.co/cobalt-coojong)　♡&nbsp;&nbsp;&nbsp;&nbsp;[ata](https://cobalt.atabook.org/)　　　⠀
-</div>
-</div>
-</div>
-<!-- 4. HEADER BANNER / IMAGE -->
-<div align="center"><img src="https://64.media.tumblr.com/4ae20255f62e2c5f725a15dcf0dedbab/7a2a2ebc0f619da5-77/s2048x3072/4eb9fef2acabd2dd705fb30cc413ef5740e5a2be.pnj" width="60%" alt="Banner">
+<a href="https://github.com/creampufflings">ᧉ𝘆𐐼</a>
+<a href="https://github.com/aetherparadise">ⅾı๋𐐼ִ𝗻𝘁hׁ𐐼</a>
+<a href="https://github.com/dexholder">ɡ𐐫lⅾ</a>
+<a href="https://github.com/infugue">𝘀ı๋l𝗏｡ı๋𝗻𝗳𝗎ׁɡ𝗎ׁᧉ</a>
+<a href="https://github.com/dares4swears">𝗰𐐫𝘆</a>
+<a href="https://github.com/flairforthedramatic">ᖯִl𝗎ׁ𝗿r</a>
+<a href="https://github.com/yubelsrevenge">𝗷𐐼ִⅾᧉ𝗻</a>
+
+
+</details>
